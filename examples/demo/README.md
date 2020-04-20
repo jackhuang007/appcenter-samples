@@ -15,3 +15,7 @@ $ appcenter app sync demo
 - `--directory-recurse`
 
     Recurse directory
+    
+- `--revision-history-limit`
+
+    How many items to keep in revision history (default 10)
