@@ -1,4 +1,4 @@
-# Create a directory app from a Git repo
+# Create a kustomize app from a Git repo
 
 ## Create a directory app
 ```bash
