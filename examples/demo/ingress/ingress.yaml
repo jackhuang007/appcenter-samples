@@ -6,7 +6,7 @@ metadata:
     app: demo
 spec:
   rules:
-    - host: app.example.com
+    - host: app.demo.example.com
       http:
         paths:
           - backend:
